@@ -4,7 +4,6 @@ from datetime import datetime
 class Logger:
     def __init__(self):
         self.move_count = 0
-        # Create log directory with timestamped folder
         timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
         self.log_dir = Path("game_log") / f"game_{timestamp}"
         self.log_dir.mkdir(parents=True, exist_ok=True)

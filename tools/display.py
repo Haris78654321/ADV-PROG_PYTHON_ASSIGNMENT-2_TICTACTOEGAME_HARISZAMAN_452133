@@ -15,8 +15,6 @@ def starting_screen():
 def show_welcome_message(player1, player2):
     print(f"\nWelcome, {player1} and {player2}!")
     
-    
-
 def show_board(board):
     print("\nCurrent Board:")
     print(board.display())

@@ -1,0 +1,80 @@
+Game started at: 2025-05-04 00:30:00
+Player 1: comp (X)
+Player 2: haris (O)
+
+Move History:
+
+Move 1: comp (X) -> Position 7
+Current Board:
+ 1 | 2 | 3 
+-----------
+ 4 | 5 | 6 
+-----------
+ X | 8 | 9 
+
+Move 2: haris (O) -> Position 5
+Current Board:
+ 1 | 2 | 3 
+-----------
+ 4 | O | 6 
+-----------
+ X | 8 | 9 
+
+Move 3: comp (X) -> Position 8
+Current Board:
+ 1 | 2 | 3 
+-----------
+ 4 | O | 6 
+-----------
+ X | X | 9 
+
+Move 4: haris (O) -> Position 9
+Current Board:
+ 1 | 2 | 3 
+-----------
+ 4 | O | 6 
+-----------
+ X | X | O 
+
+Move 5: comp (X) -> Position 1
+Current Board:
+ X | 2 | 3 
+-----------
+ 4 | O | 6 
+-----------
+ X | X | O 
+
+Move 6: haris (O) -> Position 4
+Current Board:
+ X | 2 | 3 
+-----------
+ O | O | 6 
+-----------
+ X | X | O 
+
+Move 7: comp (X) -> Position 6
+Current Board:
+ X | 2 | 3 
+-----------
+ O | O | X 
+-----------
+ X | X | O 
+
+Move 8: haris (O) -> Position 2
+Current Board:
+ X | O | 3 
+-----------
+ O | O | X 
+-----------
+ X | X | O 
+
+Move 9: comp (X) -> Position 3
+Current Board:
+ X | O | X 
+-----------
+ O | O | X 
+-----------
+ X | X | O 
+
+Game ended at: 2025-05-04 00:30:29
+Final Result: Draw

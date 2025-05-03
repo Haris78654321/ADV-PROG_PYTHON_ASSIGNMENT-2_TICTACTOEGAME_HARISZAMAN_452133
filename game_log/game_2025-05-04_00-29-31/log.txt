@@ -1,0 +1,80 @@
+Game started at: 2025-05-04 00:29:31
+Player 1: 1 (X)
+Player 2: 2 (O)
+
+Move History:
+
+Move 1: 1 (X) -> Position 4
+Current Board:
+ 1 | 2 | 3 
+-----------
+ X | 5 | 6 
+-----------
+ 7 | 8 | 9 
+
+Move 2: 2 (O) -> Position 8
+Current Board:
+ 1 | 2 | 3 
+-----------
+ X | 5 | 6 
+-----------
+ 7 | O | 9 
+
+Move 3: 1 (X) -> Position 3
+Current Board:
+ 1 | 2 | X 
+-----------
+ X | 5 | 6 
+-----------
+ 7 | O | 9 
+
+Move 4: 2 (O) -> Position 5
+Current Board:
+ 1 | 2 | X 
+-----------
+ X | O | 6 
+-----------
+ 7 | O | 9 
+
+Move 5: 1 (X) -> Position 2
+Current Board:
+ 1 | X | X 
+-----------
+ X | O | 6 
+-----------
+ 7 | O | 9 
+
+Move 6: 2 (O) -> Position 1
+Current Board:
+ O | X | X 
+-----------
+ X | O | 6 
+-----------
+ 7 | O | 9 
+
+Move 7: 1 (X) -> Position 9
+Current Board:
+ O | X | X 
+-----------
+ X | O | 6 
+-----------
+ 7 | O | X 
+
+Move 8: 2 (O) -> Position 6
+Current Board:
+ O | X | X 
+-----------
+ X | O | O 
+-----------
+ 7 | O | X 
+
+Move 9: 1 (X) -> Position 7
+Current Board:
+ O | X | X 
+-----------
+ X | O | O 
+-----------
+ X | O | X 
+
+Game ended at: 2025-05-04 00:29:31
+Final Result: Draw
