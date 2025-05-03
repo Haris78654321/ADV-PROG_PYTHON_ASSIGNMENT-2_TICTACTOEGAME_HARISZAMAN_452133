@@ -1,0 +1,48 @@
+Game started at: 2025-05-01 18:55:56
+Player 1: t (X)
+Player 2: w (O)
+
+Move History:
+
+Move 1: t (X) -> Position 1
+Current Board:
+X | 2 | 3
+---------
+4 | 5 | 6
+---------
+7 | 8 | 9
+
+Move 2: w (O) -> Position 4
+Current Board:
+X | 2 | 3
+---------
+O | 5 | 6
+---------
+7 | 8 | 9
+
+Move 3: t (X) -> Position 5
+Current Board:
+X | 2 | 3
+---------
+O | X | 6
+---------
+7 | 8 | 9
+
+Move 4: w (O) -> Position 3
+Current Board:
+X | 2 | O
+---------
+O | X | 6
+---------
+7 | 8 | 9
+
+Move 5: t (X) -> Position 9
+Current Board:
+X | 2 | O
+---------
+O | X | 6
+---------
+7 | 8 | X
+
+Game ended at: 2025-05-01 18:56:10
+Final Result: t wins!

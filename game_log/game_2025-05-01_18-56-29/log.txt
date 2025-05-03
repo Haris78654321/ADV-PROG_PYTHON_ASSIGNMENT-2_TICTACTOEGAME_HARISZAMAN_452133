@@ -1,0 +1,48 @@
+Game started at: 2025-05-01 18:56:29
+Player 1: s (X)
+Player 2: d (O)
+
+Move History:
+
+Move 1: s (X) -> Position 3
+Current Board:
+1 | 2 | X
+---------
+4 | 5 | 6
+---------
+7 | 8 | 9
+
+Move 2: d (O) -> Position 2
+Current Board:
+1 | O | X
+---------
+4 | 5 | 6
+---------
+7 | 8 | 9
+
+Move 3: s (X) -> Position 6
+Current Board:
+1 | O | X
+---------
+4 | 5 | X
+---------
+7 | 8 | 9
+
+Move 4: d (O) -> Position 4
+Current Board:
+1 | O | X
+---------
+O | 5 | X
+---------
+7 | 8 | 9
+
+Move 5: s (X) -> Position 9
+Current Board:
+1 | O | X
+---------
+O | 5 | X
+---------
+7 | 8 | X
+
+Game ended at: 2025-05-01 18:56:41
+Final Result: s wins!

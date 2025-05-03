@@ -1,0 +1,64 @@
+Game started at: 2025-05-01 18:56:57
+Player 1: e (X)
+Player 2: m (O)
+
+Move History:
+
+Move 1: e (X) -> Position 4
+Current Board:
+1 | 2 | 3
+---------
+X | 5 | 6
+---------
+7 | 8 | 9
+
+Move 2: m (O) -> Position 6
+Current Board:
+1 | 2 | 3
+---------
+X | 5 | O
+---------
+7 | 8 | 9
+
+Move 3: e (X) -> Position 3
+Current Board:
+1 | 2 | X
+---------
+X | 5 | O
+---------
+7 | 8 | 9
+
+Move 4: m (O) -> Position 7
+Current Board:
+1 | 2 | X
+---------
+X | 5 | O
+---------
+O | 8 | 9
+
+Move 5: e (X) -> Position 2
+Current Board:
+1 | X | X
+---------
+X | 5 | O
+---------
+O | 8 | 9
+
+Move 6: m (O) -> Position 8
+Current Board:
+1 | X | X
+---------
+X | 5 | O
+---------
+O | O | 9
+
+Move 7: e (X) -> Position 1
+Current Board:
+X | X | X
+---------
+X | 5 | O
+---------
+O | O | 9
+
+Game ended at: 2025-05-01 18:57:35
+Final Result: e wins!

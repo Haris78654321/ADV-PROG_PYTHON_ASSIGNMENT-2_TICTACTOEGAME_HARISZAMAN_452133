@@ -1,0 +1,64 @@
+Game started at: 2025-05-03 17:59:25
+Player 1: haris (X)
+Player 2: zaman (O)
+
+Move History:
+
+Move 1: haris (X) -> Position 1
+Current Board:
+X | 2 | 3
+---------
+4 | 5 | 6
+---------
+7 | 8 | 9
+
+Move 2: zaman (O) -> Position 2
+Current Board:
+X | O | 3
+---------
+4 | 5 | 6
+---------
+7 | 8 | 9
+
+Move 3: haris (X) -> Position 3
+Current Board:
+X | O | X
+---------
+4 | 5 | 6
+---------
+7 | 8 | 9
+
+Move 4: zaman (O) -> Position 4
+Current Board:
+X | O | X
+---------
+O | 5 | 6
+---------
+7 | 8 | 9
+
+Move 5: haris (X) -> Position 5
+Current Board:
+X | O | X
+---------
+O | X | 6
+---------
+7 | 8 | 9
+
+Move 6: zaman (O) -> Position 6
+Current Board:
+X | O | X
+---------
+O | X | O
+---------
+7 | 8 | 9
+
+Move 7: haris (X) -> Position 7
+Current Board:
+X | O | X
+---------
+O | X | O
+---------
+X | 8 | 9
+
+Game ended at: 2025-05-03 17:59:32
+Final Result: haris wins!
