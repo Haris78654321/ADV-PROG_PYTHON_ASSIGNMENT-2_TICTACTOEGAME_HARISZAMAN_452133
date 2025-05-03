@@ -1,6 +1,6 @@
 # ADV-PROG_PYTHON_ASSIGNMENT-2_TICTACTOEGAME_HARISZAMAN_452133
 Repository contains all files and folders for Command Line Based TIC-TAC_TOE game
-
+------------------------------------------------------------------------------------------------------------------------------
 🎮 Tic-Tac-Toe (Python)
 A terminal-based Tic-Tac-Toe game implemented in Python, featuring a modular design, win-checking logic, and player move 
 
@@ -34,7 +34,8 @@ Clone REPO:https://github.com/Haris78654321/ADV-PROG_PYTHON_ASSIGNMENT-2_TICTACT
 
 run main.py
 
-
 requirements:
 
-Python 3.8+, collections.namedtuple
+Python 3.8+, collectio
+
+ns.namedtuple

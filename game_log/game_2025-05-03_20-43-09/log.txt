@@ -1,0 +1,48 @@
+Game started at: 2025-05-03 20:43:09
+Player 1: 1 (X)
+Player 2: 2 (O)
+
+Move History:
+
+Move 1: 1 (X) -> Position 3
+Current Board:
+ 1 | 2 | X 
+-----------
+ 4 | 5 | 6 
+-----------
+ 7 | 8 | 9 
+
+Move 2: 2 (O) -> Position 4
+Current Board:
+ 1 | 2 | X 
+-----------
+ O | 5 | 6 
+-----------
+ 7 | 8 | 9 
+
+Move 3: 1 (X) -> Position 5
+Current Board:
+ 1 | 2 | X 
+-----------
+ O | X | 6 
+-----------
+ 7 | 8 | 9 
+
+Move 4: 2 (O) -> Position 6
+Current Board:
+ 1 | 2 | X 
+-----------
+ O | X | O 
+-----------
+ 7 | 8 | 9 
+
+Move 5: 1 (X) -> Position 7
+Current Board:
+ 1 | 2 | X 
+-----------
+ O | X | O 
+-----------
+ X | 8 | 9 
+
+Game ended at: 2025-05-03 20:43:13
+Final Result: 1 wins!
