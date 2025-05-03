@@ -1,0 +1,80 @@
+Game started at: 2025-05-03 20:12:03
+Player 1: ha (X)
+Player 2: a (O)
+
+Move History:
+
+Move 1: ha (X) -> Position 1
+Current Board:
+ X | 2 | 3 
+-----------
+ 4 | 5 | 6 
+-----------
+ 7 | 8 | 9 
+
+Move 2: a (O) -> Position 2
+Current Board:
+ X | O | 3 
+-----------
+ 4 | 5 | 6 
+-----------
+ 7 | 8 | 9 
+
+Move 3: ha (X) -> Position 3
+Current Board:
+ X | O | X 
+-----------
+ 4 | 5 | 6 
+-----------
+ 7 | 8 | 9 
+
+Move 4: a (O) -> Position 9
+Current Board:
+ X | O | X 
+-----------
+ 4 | 5 | 6 
+-----------
+ 7 | 8 | O 
+
+Move 5: ha (X) -> Position 4
+Current Board:
+ X | O | X 
+-----------
+ X | 5 | 6 
+-----------
+ 7 | 8 | O 
+
+Move 6: a (O) -> Position 5
+Current Board:
+ X | O | X 
+-----------
+ X | O | 6 
+-----------
+ 7 | 8 | O 
+
+Move 7: ha (X) -> Position 6
+Current Board:
+ X | O | X 
+-----------
+ X | O | X 
+-----------
+ 7 | 8 | O 
+
+Move 8: a (O) -> Position 7
+Current Board:
+ X | O | X 
+-----------
+ X | O | X 
+-----------
+ O | 8 | O 
+
+Move 9: ha (X) -> Position 8
+Current Board:
+ X | O | X 
+-----------
+ X | O | X 
+-----------
+ O | X | O 
+
+Game ended at: 2025-05-03 20:13:18
+Final Result: Draw
