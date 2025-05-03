@@ -28,6 +28,7 @@ Dynamic board display (updated after every move).
 
 Support for 2 players (X and O).
 
+--------------------------------------------------------------------------------------------------------------------
 Installation
 
 Clone REPO:https://github.com/Haris78654321/ADV-PROG_PYTHON_ASSIGNMENT-2_TICTACTOEGAME_HARISZAMAN_452133.git
@@ -38,4 +39,4 @@ requirements:
 
 Python 3.8+, collectio
 
-ns.namedtuple
+collections.namedtuple
