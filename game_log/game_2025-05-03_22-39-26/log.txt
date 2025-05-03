@@ -1,0 +1,21 @@
+Game started at: 2025-05-03 22:39:26
+Player 1: 1 (X)
+Player 2: 2 (O)
+
+Move History:
+
+Move 1: 1 (X) -> Position 1
+Current Board:
+ X | 2 | 3 
+-----------
+ 4 | 5 | 6 
+-----------
+ 7 | 8 | 9 
+
+Move 2: 2 (O) -> Position 2
+Current Board:
+ X | O | 3 
+-----------
+ 4 | 5 | 6 
+-----------
+ 7 | 8 | 9 
