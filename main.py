@@ -11,7 +11,7 @@ def main():
     player2 = None
     game_count = 1
     
-    # Show starting screen
+   
   
     starting_screen()
     time.sleep(1.5)
@@ -21,14 +21,14 @@ def main():
         print("Tic-Tac-Toe Game")
         print("----------------\n")
         
-        # Player setup logic
+        
         if player1 is None or player2 is None or not prompt_same_players():
             player1_name = input("Please enter Player 1 name: ").strip() or "Player 1"
             player2_name = input("Please enter Player 2 name: ").strip() or "Player 2"
             player1 = pls.Player(player1_name, "X")
             player2 = pls.Player(player2_name, "O")
         
-        # Initialize game
+        
         board = bd.Board()
         logger = Logger()
         logger.log_game_start(player1, player2)
