@@ -1,0 +1,72 @@
+Game started at: 2025-05-04 21:50:47
+Player 1: h (X)
+Player 2: c (O)
+
+Move History:
+
+Move 1: h (X) -> Position 1
+Current Board:
+ X | 2 | 3 
+-----------
+ 4 | 5 | 6 
+-----------
+ 7 | 8 | 9 
+
+Move 2: c (O) -> Position 2
+Current Board:
+ X | O | 3 
+-----------
+ 4 | 5 | 6 
+-----------
+ 7 | 8 | 9 
+
+Move 3: h (X) -> Position 5
+Current Board:
+ X | O | 3 
+-----------
+ 4 | X | 6 
+-----------
+ 7 | 8 | 9 
+
+Move 4: c (O) -> Position 9
+Current Board:
+ X | O | 3 
+-----------
+ 4 | X | 6 
+-----------
+ 7 | 8 | O 
+
+Move 5: h (X) -> Position 3
+Current Board:
+ X | O | X 
+-----------
+ 4 | X | 6 
+-----------
+ 7 | 8 | O 
+
+Move 6: c (O) -> Position 7
+Current Board:
+ X | O | X 
+-----------
+ 4 | X | 6 
+-----------
+ O | 8 | O 
+
+Move 7: h (X) -> Position 4
+Current Board:
+ X | O | X 
+-----------
+ X | X | 6 
+-----------
+ O | 8 | O 
+
+Move 8: c (O) -> Position 8
+Current Board:
+ X | O | X 
+-----------
+ X | X | 6 
+-----------
+ O | O | O 
+
+Game ended at: 2025-05-04 21:51:09
+Final Result: c wins!
