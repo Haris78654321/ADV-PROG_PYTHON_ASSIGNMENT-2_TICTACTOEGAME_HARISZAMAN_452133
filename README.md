@@ -28,6 +28,10 @@ Dynamic board display (updated after every move).
 
 Support for 2 players (X and O).
 
+Choice between computer player and human player
+
+Logg folders are made with time stamps
+
 --------------------------------------------------------------------------------------------------------------------
 Installation
 
@@ -37,6 +41,6 @@ run main.py
 
 requirements:
 
-Python 3.8+, collectio
+Python 3.8+
 
 collections.namedtuple
