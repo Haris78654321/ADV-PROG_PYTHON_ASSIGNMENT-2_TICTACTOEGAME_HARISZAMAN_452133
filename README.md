@@ -44,3 +44,25 @@ requirements:
 Python 3.8+
 
 collections.namedtuple
+
+Game Play:
+
+Chose type of player:human/computer
+
+Chose player1 name
+
+Similarly chose type of Player2 and Player 2 name
+
+A generic TIC-TAC-TOE board will appear with 1-9 digits marking positions
+
+Chose where you want your mark {x/O}
+
+The alternates between turns till {win/lose/draw}
+
+prompted by game for replaying a game [same players or new players]
+
+Game history log:
+
+When new game is started a log file and folder is created with date and time as folder name
+
+The log file is updated and saved as moves progress
