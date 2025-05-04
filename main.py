@@ -40,7 +40,7 @@ def main():
             move = current_player.get_move(board)
             
             while not board.is_valid_move(move):
-                print("Invalid move. Please try again.")
+                
                 move = current_player.get_move(board)
             
             board.make_move(move, current_player.marker)

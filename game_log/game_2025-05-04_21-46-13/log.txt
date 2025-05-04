@@ -1,0 +1,64 @@
+Game started at: 2025-05-04 21:46:13
+Player 1: q (X)
+Player 2: c (O)
+
+Move History:
+
+Move 1: q (X) -> Position 6
+Current Board:
+ 1 | 2 | 3 
+-----------
+ 4 | 5 | X 
+-----------
+ 7 | 8 | 9 
+
+Move 2: c (O) -> Position 5
+Current Board:
+ 1 | 2 | 3 
+-----------
+ 4 | O | X 
+-----------
+ 7 | 8 | 9 
+
+Move 3: q (X) -> Position 7
+Current Board:
+ 1 | 2 | 3 
+-----------
+ 4 | O | X 
+-----------
+ X | 8 | 9 
+
+Move 4: c (O) -> Position 1
+Current Board:
+ O | 2 | 3 
+-----------
+ 4 | O | X 
+-----------
+ X | 8 | 9 
+
+Move 5: q (X) -> Position 9
+Current Board:
+ O | 2 | 3 
+-----------
+ 4 | O | X 
+-----------
+ X | 8 | X 
+
+Move 6: c (O) -> Position 3
+Current Board:
+ O | 2 | O 
+-----------
+ 4 | O | X 
+-----------
+ X | 8 | X 
+
+Move 7: q (X) -> Position 8
+Current Board:
+ O | 2 | O 
+-----------
+ 4 | O | X 
+-----------
+ X | X | X 
+
+Game ended at: 2025-05-04 21:46:13
+Final Result: q wins!
